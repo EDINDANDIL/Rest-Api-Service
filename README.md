@@ -15,11 +15,11 @@
   - Java 17+, Spring Boot 3.x
   - Spring Web (REST controllers)
   - Spring Data JPA + Hibernate
-  - СУБД: [указать вашу БД, напр. PostgreSQL]
+  - СУБД: PostgreSQL
 - **Клиент**:
   - RestTemplate для HTTP-запросов
   - Java Faker для генерации тестовых данных
-  - XChart для визуализации (опционально)
+  - XChart для визуализации
 
 ### Тестирование:
 Проект включает многоуровневое тестирование:
